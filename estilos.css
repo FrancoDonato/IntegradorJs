@@ -58,7 +58,15 @@ a{
     font-size: 1.5rem;
     transition-duration: 0.5s;
 }
+.nav-lista i{
 
+    transition-duration: 0.5s;
+
+}
+.nav-lista i:hover{
+    color: aliceblue;
+    text-shadow: rgb(91, 232, 236) 1px 1px 5px ;
+}
 li:hover{
     transform: scale(1.2);
     text-shadow: rgb(91, 232, 236) 1px 1px 5px ;
