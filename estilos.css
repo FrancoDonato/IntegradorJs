@@ -151,6 +151,7 @@ a:hover{
     text-align: center;
     border-radius: 10%;
     color: aliceblue;
+    transition: ease-in-out 0.5s;
 }
 
 .container-botones .btn-ingresar{
@@ -162,4 +163,21 @@ a:hover{
     text-align: center;
     border-radius: 10%;
     color: aliceblue;
+    transition: ease-in-out 0.5s;
+}
+
+.container-botones .btn-ingresar:hover{
+    background-color: rgb(156, 17, 138);
+    box-shadow: rgba(255, 255, 255, 0.5) 5 10 10 5; 
+    transform: scale(1.2);
+    border: 2px solid;
+    border-color: cyan;
+}
+
+.container-botones .btn-registrarse:hover{
+    background-color: rgb(156, 17, 138);
+    box-shadow: rgba(255, 255, 255, 0.5) 5 10 10 5; 
+    transform: scale(1.2);
+    border: 2px solid;
+    border-color: cyan;
 }
