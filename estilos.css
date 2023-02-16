@@ -149,7 +149,7 @@ a:hover{
     margin: 10%;
     font-size: 1rem;
     text-align: center;
-    border-radius: 10%;
+    border-radius: 20%;
     color: aliceblue;
     transition: ease-in-out 0.5s;
 }
@@ -161,14 +161,14 @@ a:hover{
     font-size: 1rem;
     margin: 10%;
     text-align: center;
-    border-radius: 10%;
+    border-radius: 20%;
     color: aliceblue;
     transition: ease-in-out 0.5s;
 }
 
 .container-botones .btn-ingresar:hover{
     background-color: rgb(156, 17, 138);
-    box-shadow: rgba(255, 255, 255, 0.856) 5 10 10 5; 
+    box-shadow: rgba(255, 255, 255, 0.856) 5px 10px 10px 5px; 
     transform: scale(1.2);
     border: 2px solid;
     border-color: cyan;
@@ -176,7 +176,7 @@ a:hover{
 
 .container-botones .btn-registrarse:hover{
     background-color: rgb(156, 17, 138);
-    box-shadow: rgba(255, 255, 255, 0.877) 5 10 10 5; 
+    box-shadow: rgba(255, 255, 255, 0.856) 5px 10px 10px 5px; 
     transform: scale(1.2);
     border: 2px solid;
     border-color: cyan;
