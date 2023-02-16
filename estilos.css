@@ -168,7 +168,7 @@ a:hover{
 
 .container-botones .btn-ingresar:hover{
     background-color: rgb(156, 17, 138);
-    box-shadow: rgba(255, 255, 255, 0.5) 5 10 10 5; 
+    box-shadow: rgba(255, 255, 255, 0.856) 5 10 10 5; 
     transform: scale(1.2);
     border: 2px solid;
     border-color: cyan;
@@ -176,7 +176,7 @@ a:hover{
 
 .container-botones .btn-registrarse:hover{
     background-color: rgb(156, 17, 138);
-    box-shadow: rgba(255, 255, 255, 0.5) 5 10 10 5; 
+    box-shadow: rgba(255, 255, 255, 0.877) 5 10 10 5; 
     transform: scale(1.2);
     border: 2px solid;
     border-color: cyan;
