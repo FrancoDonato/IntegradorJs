@@ -144,18 +144,20 @@ a:hover{
 
 .container-botones .btn-registrarse{
     background-color: rgb(29, 93, 231);
-    padding: 15px 40px;
+    padding: 15px 25px;
     width:50%;
     margin: 10%;
+    font-size: 1.5rem;
     text-align: center;
     border-radius: 10%;
     color: aliceblue;
 }
 
 .container-botones .btn-ingresar{
-    background-color: rgb(29, 93, 231);
-    padding: 15px 40px;
+    background-color: rgb(55, 31, 121);
+    padding: 15px 25px;
     width: 50%;
+    font-size: 1.5rem;
     margin: 10%;
     text-align: center;
     border-radius: 10%;
