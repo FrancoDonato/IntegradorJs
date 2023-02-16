@@ -58,10 +58,15 @@ a{
     font-size: 1.5rem;
     transition-duration: 0.5s;
 }
-i{
-    transition-duration: 0.5s;
 
+i{
+    text-decoration: none;
+    color:#2C3E50;
+    font-weight: 600;
+    font-size: 1.5rem;
+    transition-duration: 0.5s;
 }
+
 i:hover{
     color: aliceblue;
     text-shadow: rgb(91, 232, 236) 1px 1px 5px ;
